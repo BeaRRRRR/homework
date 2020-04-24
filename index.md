@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+1. **Общественно-историческая ситуация в России конца XIX - начала XX века**
+  
+   *Вопрос:* C какого года отсчитывает начало нового этапа в российской истории и культурно жизни?   
+   *Ответ:*  Начало нового этапа в российской истории и культурной жизни отсчитывают с 1881 года.
 
-You can use the [editor on GitHub](https://github.com/BeaRRRRR/homework/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+   *Вопрос:* Что произошло в 1881 году?   
+   *Ответ:* 1881 год - это год убийства Александра II, воцарения Александра III, начала жестокой реакции - эпохи безвременья.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   *Вопрос:* Назовите представителей неохристианства.   
+   *Ответ:*  Представителями неохристианства были В. Соловьев, Н. Бердяев, П. Струве, П. Флоренский, В. Иванов.
 
-### Markdown
+   *Вопрос:* Как писал о начеле XX века Л. Андреев в 1902 году?   
+   *Ответ:*  "Что-то порвалось, что-то лопнуло..."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   *Вопрос:* Как сказалось поражение в русско-японской войне на Россию?   
+   *Ответ:*  Поражение вылилось в "кровавое воскресенье" и революцию  1905 - 1907 годов.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+2. **Особенности реализма рубежа XIX - XX веков.**
 
-1. Numbered
-2. List
+    *Вопрос:* Почему, по мнению Н. Минского и Д. Мережковского литература пришла в упадок?  
+    *Ответ:*  Н. Минский и Д. Мережковский считали что литература пришла в упадок, потеряла глубину, так как в ней закрепились материализм и гражданская направленность, обоснованная в 1860-е годы Н. Чернышевским, Н. Добролюбовым и Д. Писаревым.
 
-**Bold** and _Italic_ and `Code` text
+    *Вопрос:* Что такое неореализм?  
+    *Ответ:* Неореализм - это процессы, протекающие внутри реалистического движения:  отмежевание от натурализма конца XIX века, возвращение к традиции классического реализма и обновление его за счёт сближения с модернизмом.
 
-[Link](url) and ![Image](src)
-```
+   *Вопрос:* Что было предметом изображения в неореализме?   
+   *Ответ:*  Предметом изображения в неореализме являлась повседневная жизнь, в которой нет места героическому, предмет изображения - просто человек.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeaRRRRR/homework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   *Вопрос:* Назовите отличительные черты пролетарской литературы.   
+   *Ответ:*  Отличительными чертами этого направления были исторический оптимизм, злободневность, призывность, условно-романтические образы, социальная заострённость, использование жанров фельетона, эпиграммы, политической басни.
+    
+    *Вопрос:* Когда родился социалистический реализм?   
+    *Ответ:*  Социалистический реализм родился в 1905 году.
+    
